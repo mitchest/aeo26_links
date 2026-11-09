@@ -18,3 +18,22 @@
 ### Example connections to API
 - [Ocean accounting tool](https://accounts.spatialdataframework.org/)
 - NSW cadastre level reporting: come talk to me about that =)
+
+## Acknowledgements
+
+### Co authors
+- UNSW: Maria Alarcon, Jordan Gacutan, Ben Milligan
+- Geoscience Australia: Robbi Bishop-Taylor, Vanessa Newey, Claire Phillips, Stephen Sagar
+- ANU: Crystal Bradley (now DCCEEW)
+- Auspatious: Will Jones, Alex Leith
+
+### Partners
+- Geoscience Australia and DEA
+- Commonwealth DCCEEW
+- ABS
+- UNSW Centre for Sustainable Development Reform; Centre for Ecosystem Science
+- Auspatious
+- Global Ocean Accounts Partnership
+- NSW DCCEEW
+- JCU, UQ and ANU.
+
